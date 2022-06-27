@@ -1,0 +1,114 @@
+﻿  Bhop.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Vector.h(32,1): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Vector.h(35,1): warning C4305: "=": Verkürzung von "double" in "float"
+  DirectX.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Vector.h(32,1): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Vector.h(35,1): warning C4305: "=": Verkürzung von "double" in "float"
+  Drawing.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Vector.h(32,1): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Vector.h(35,1): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Drawing.cpp(14,28): warning C4244: "Argument": Konvertierung von "int" in "FLOAT", möglicher Datenverlust
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Drawing.cpp(14,24): warning C4244: "Argument": Konvertierung von "int" in "FLOAT", möglicher Datenverlust
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Drawing.cpp(15,28): warning C4244: "Argument": Konvertierung von "int" in "FLOAT", möglicher Datenverlust
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Drawing.cpp(15,24): warning C4244: "Argument": Konvertierung von "int" in "FLOAT", möglicher Datenverlust
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Drawing.cpp(17,18): warning C4244: "Argument": Konvertierung von "int" in "FLOAT", möglicher Datenverlust
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Drawing.cpp(30,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Drawing.cpp(31,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Drawing.cpp(33,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Drawing.cpp(34,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Drawing.cpp(36,24): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Drawing.cpp(36,20): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Drawing.cpp(36,16): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Drawing.cpp(36,12): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  Engine.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Vector.h(32,1): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Vector.h(35,1): warning C4305: "=": Verkürzung von "double" in "float"
+  Entity.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Vector.h(32,1): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Vector.h(35,1): warning C4305: "=": Verkürzung von "double" in "float"
+  Hook.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Vector.h(32,1): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Vector.h(35,1): warning C4305: "=": Verkürzung von "double" in "float"
+  Localplayer.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Vector.h(32,1): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Vector.h(35,1): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Localplayer.cpp(34,9): warning C4101: "E": Unreferenzierte lokale Variable
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Localplayer.cpp(41,9): warning C4101: "E": Unreferenzierte lokale Variable
+  Recoil.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Vector.h(32,1): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Vector.h(35,1): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Recoil.cpp(40,41): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Recoil.cpp(41,42): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Recoil.cpp(46,41): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Recoil.cpp(47,42): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  Recoil.h
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Vector.h(32,1): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Vector.h(35,1): warning C4305: "=": Verkürzung von "double" in "float"
+  Triggerbot.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Vector.h(32,1): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Vector.h(35,1): warning C4305: "=": Verkürzung von "double" in "float"
+  dllmain.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Vector.h(32,1): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Vector.h(35,1): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\dllmain.cpp(93,27): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\dllmain.cpp(92,17): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\dllmain.cpp(91,17): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  Code wird generiert...
+LINK : warning LNK4075: /INCREMENTAL wird aufgrund der Angabe von /FORCE ignoriert.
+DirectX.obj : warning LNK4006: "struct IDirect3DDevice9 * DXDEVICE" (?DXDEVICE@@3PAUIDirect3DDevice9@@A) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+DirectX.obj : warning LNK4006: "unsigned long Global_GameModule" (?Global_GameModule@@3KA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+DirectX.obj : warning LNK4006: "unsigned long Global_EngineModule" (?Global_EngineModule@@3KA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+DirectX.obj : warning LNK4006: "class USettings Settings" (?Settings@@3VUSettings@@A) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+DirectX.obj : warning LNK4006: "int RecoilCrosshairX" (?RecoilCrosshairX@@3HA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+DirectX.obj : warning LNK4006: "int RecoilCrosshairY" (?RecoilCrosshairY@@3HA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+dllmain.obj : warning LNK4006: "struct IDirect3DDevice9 * DXDEVICE" (?DXDEVICE@@3PAUIDirect3DDevice9@@A) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+dllmain.obj : warning LNK4006: "unsigned long Global_GameModule" (?Global_GameModule@@3KA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+dllmain.obj : warning LNK4006: "unsigned long Global_EngineModule" (?Global_EngineModule@@3KA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+dllmain.obj : warning LNK4006: "class USettings Settings" (?Settings@@3VUSettings@@A) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+dllmain.obj : warning LNK4006: "int RecoilCrosshairX" (?RecoilCrosshairX@@3HA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+dllmain.obj : warning LNK4006: "int RecoilCrosshairY" (?RecoilCrosshairY@@3HA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Drawing.obj : warning LNK4006: "struct IDirect3DDevice9 * DXDEVICE" (?DXDEVICE@@3PAUIDirect3DDevice9@@A) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Drawing.obj : warning LNK4006: "unsigned long Global_GameModule" (?Global_GameModule@@3KA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Drawing.obj : warning LNK4006: "unsigned long Global_EngineModule" (?Global_EngineModule@@3KA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Drawing.obj : warning LNK4006: "class USettings Settings" (?Settings@@3VUSettings@@A) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Drawing.obj : warning LNK4006: "int RecoilCrosshairX" (?RecoilCrosshairX@@3HA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Drawing.obj : warning LNK4006: "int RecoilCrosshairY" (?RecoilCrosshairY@@3HA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Engine.obj : warning LNK4006: "struct IDirect3DDevice9 * DXDEVICE" (?DXDEVICE@@3PAUIDirect3DDevice9@@A) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Engine.obj : warning LNK4006: "unsigned long Global_GameModule" (?Global_GameModule@@3KA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Engine.obj : warning LNK4006: "unsigned long Global_EngineModule" (?Global_EngineModule@@3KA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Engine.obj : warning LNK4006: "class USettings Settings" (?Settings@@3VUSettings@@A) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Engine.obj : warning LNK4006: "int RecoilCrosshairX" (?RecoilCrosshairX@@3HA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Engine.obj : warning LNK4006: "int RecoilCrosshairY" (?RecoilCrosshairY@@3HA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Entity.obj : warning LNK4006: "struct IDirect3DDevice9 * DXDEVICE" (?DXDEVICE@@3PAUIDirect3DDevice9@@A) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Entity.obj : warning LNK4006: "unsigned long Global_GameModule" (?Global_GameModule@@3KA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Entity.obj : warning LNK4006: "unsigned long Global_EngineModule" (?Global_EngineModule@@3KA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Entity.obj : warning LNK4006: "class USettings Settings" (?Settings@@3VUSettings@@A) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Entity.obj : warning LNK4006: "int RecoilCrosshairX" (?RecoilCrosshairX@@3HA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Entity.obj : warning LNK4006: "int RecoilCrosshairY" (?RecoilCrosshairY@@3HA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Hook.obj : warning LNK4006: "struct IDirect3DDevice9 * DXDEVICE" (?DXDEVICE@@3PAUIDirect3DDevice9@@A) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Hook.obj : warning LNK4006: "unsigned long Global_GameModule" (?Global_GameModule@@3KA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Hook.obj : warning LNK4006: "unsigned long Global_EngineModule" (?Global_EngineModule@@3KA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Hook.obj : warning LNK4006: "class USettings Settings" (?Settings@@3VUSettings@@A) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Hook.obj : warning LNK4006: "int RecoilCrosshairX" (?RecoilCrosshairX@@3HA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Hook.obj : warning LNK4006: "int RecoilCrosshairY" (?RecoilCrosshairY@@3HA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Localplayer.obj : warning LNK4006: "struct IDirect3DDevice9 * DXDEVICE" (?DXDEVICE@@3PAUIDirect3DDevice9@@A) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Localplayer.obj : warning LNK4006: "unsigned long Global_GameModule" (?Global_GameModule@@3KA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Localplayer.obj : warning LNK4006: "unsigned long Global_EngineModule" (?Global_EngineModule@@3KA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Localplayer.obj : warning LNK4006: "class USettings Settings" (?Settings@@3VUSettings@@A) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Localplayer.obj : warning LNK4006: "int RecoilCrosshairX" (?RecoilCrosshairX@@3HA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Localplayer.obj : warning LNK4006: "int RecoilCrosshairY" (?RecoilCrosshairY@@3HA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Recoil.obj : warning LNK4006: "struct IDirect3DDevice9 * DXDEVICE" (?DXDEVICE@@3PAUIDirect3DDevice9@@A) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Recoil.obj : warning LNK4006: "unsigned long Global_GameModule" (?Global_GameModule@@3KA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Recoil.obj : warning LNK4006: "unsigned long Global_EngineModule" (?Global_EngineModule@@3KA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Recoil.obj : warning LNK4006: "class USettings Settings" (?Settings@@3VUSettings@@A) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Recoil.obj : warning LNK4006: "int RecoilCrosshairX" (?RecoilCrosshairX@@3HA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Recoil.obj : warning LNK4006: "int RecoilCrosshairY" (?RecoilCrosshairY@@3HA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Debug\Recoil.obj : warning LNK4042: Objekt mehrmals angegeben; zusätzliche Objekte werden ignoriert.
+Triggerbot.obj : warning LNK4006: "struct IDirect3DDevice9 * DXDEVICE" (?DXDEVICE@@3PAUIDirect3DDevice9@@A) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Triggerbot.obj : warning LNK4006: "unsigned long Global_GameModule" (?Global_GameModule@@3KA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Triggerbot.obj : warning LNK4006: "unsigned long Global_EngineModule" (?Global_EngineModule@@3KA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Triggerbot.obj : warning LNK4006: "class USettings Settings" (?Settings@@3VUSettings@@A) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Triggerbot.obj : warning LNK4006: "int RecoilCrosshairX" (?RecoilCrosshairX@@3HA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+Triggerbot.obj : warning LNK4006: "int RecoilCrosshairY" (?RecoilCrosshairY@@3HA) ist bereits in "Bhop.obj" definiert; zweite Definition wird ignoriert.
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Debug\DLL.dll : warning LNK4088: Image wird aufgrund der Option /FORCE generiert; Image kann möglicherweise nicht ausgeführt werden.
+  Strayfaded.vcxproj -> C:\Users\Justin\Desktop\trash\CSGO-Base-main\Debug\DLL.dll

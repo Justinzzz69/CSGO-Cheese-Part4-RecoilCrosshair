@@ -1,0 +1,31 @@
+﻿  Bhop.cpp
+  DirectX.cpp
+  dllmain.cpp
+  Drawing.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Drawing.cpp(14,28): warning C4244: "Argument": Konvertierung von "int" in "FLOAT", möglicher Datenverlust
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Drawing.cpp(14,24): warning C4244: "Argument": Konvertierung von "int" in "FLOAT", möglicher Datenverlust
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Drawing.cpp(15,28): warning C4244: "Argument": Konvertierung von "int" in "FLOAT", möglicher Datenverlust
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Drawing.cpp(15,24): warning C4244: "Argument": Konvertierung von "int" in "FLOAT", möglicher Datenverlust
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Drawing.cpp(17,18): warning C4244: "Argument": Konvertierung von "int" in "FLOAT", möglicher Datenverlust
+  Engine.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Engine.cpp(5,46): warning C4311: "Typumwandlung": Zeigerverkürzung von "HMODULE" zu "DWORD"
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Engine.cpp(5,46): warning C4302: "Typumwandlung": Verkürzung von "HMODULE" in "DWORD"
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Engine.cpp(10,46): warning C4311: "Typumwandlung": Zeigerverkürzung von "HMODULE" zu "DWORD"
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Engine.cpp(10,46): warning C4302: "Typumwandlung": Verkürzung von "HMODULE" in "DWORD"
+  Hook.cpp
+  Localplayer.cpp
+  Code wird generiert...
+DirectX.obj : error LNK2005: "class USettings Settings" (?Settings@@3VUSettings@@A) ist bereits in Bhop.obj definiert.
+dllmain.obj : error LNK2005: "class USettings Settings" (?Settings@@3VUSettings@@A) ist bereits in Bhop.obj definiert.
+Drawing.obj : error LNK2005: "class USettings Settings" (?Settings@@3VUSettings@@A) ist bereits in Bhop.obj definiert.
+Engine.obj : error LNK2005: "class USettings Settings" (?Settings@@3VUSettings@@A) ist bereits in Bhop.obj definiert.
+Hook.obj : error LNK2005: "class USettings Settings" (?Settings@@3VUSettings@@A) ist bereits in Bhop.obj definiert.
+Localplayer.obj : error LNK2005: "class USettings Settings" (?Settings@@3VUSettings@@A) ist bereits in Bhop.obj definiert.
+DirectX.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "Direct3DCreate9" in Funktion ""bool __cdecl GetD3D9Device(void * *,unsigned __int64)" (?GetD3D9Device@@YA_NPEAPEAX_K@Z)".
+Drawing.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "D3DXCreateLine" in Funktion ""void __cdecl DrawLine(int,int,int,int,int,bool,unsigned long)" (?DrawLine@@YAXHHHHH_NK@Z)".
+imgui_impl_win32.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "XInputGetState" in Funktion ""void __cdecl ImGui_ImplWin32_UpdateGamepads(void)" (?ImGui_ImplWin32_UpdateGamepads@@YAXXZ)".
+imgui_impl_win32.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "XInputGetCapabilities" in Funktion ""void __cdecl ImGui_ImplWin32_UpdateGamepads(void)" (?ImGui_ImplWin32_UpdateGamepads@@YAXXZ)".
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\d3d9.lib : warning LNK4272: Bibliothekcomputertyp "x86" steht in Konflikt mit dem Zielcomputertyp "x64"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\d3dx9.lib : warning LNK4272: Bibliothekcomputertyp "x86" steht in Konflikt mit dem Zielcomputertyp "x64"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\xinput.lib : warning LNK4272: Bibliothekcomputertyp "x86" steht in Konflikt mit dem Zielcomputertyp "x64"
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\x64\Debug\DLL.dll : fatal error LNK1120: 4 nicht aufgelöste Externe

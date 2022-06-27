@@ -1,0 +1,32 @@
+﻿  Bhop.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Bhop.cpp(19,1): fatal error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "pch.h"" einzufügen?
+  DirectX.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\DirectX.cpp(69,1): fatal error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "pch.h"" einzufügen?
+  dllmain.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\dllmain.cpp(113,1): fatal error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "pch.h"" einzufügen?
+  Drawing.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Drawing.cpp(22,1): fatal error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "pch.h"" einzufügen?
+  Engine.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Engine.cpp(12,1): fatal error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "pch.h"" einzufügen?
+  Hook.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Hook.cpp(45,1): fatal error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "pch.h"" einzufügen?
+  imgui.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\imgui\imgui.cpp(2022,1): warning C4005: "va_copy": Makro-Neudefinition
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\imgui\imgui.cpp(2020): message : Siehe vorherige Definition von "va_copy"
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\imgui\imgui.cpp(10109,1): fatal error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "pch.h"" einzufügen?
+  imgui_demo.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\imgui\imgui_demo.cpp(104,1): warning C4005: "IM_NEWLINE": Makro-Neudefinition
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\imgui\imgui_demo.cpp(102): message : Siehe vorherige Definition von "IM_NEWLINE"
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\imgui\imgui_demo.cpp(4845,1): fatal error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "pch.h"" einzufügen?
+  imgui_draw.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\imgui\imgui_draw.cpp(126,10): error C2006: "#include": FILENAME oder <FILENAME> erwartet.
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\imgui\imgui_draw.cpp(149,10): error C2006: "#include": FILENAME oder <FILENAME> erwartet.
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\imgui\imgui_draw.cpp(3406,1): fatal error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "pch.h"" einzufügen?
+  imgui_impl_dx9.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\imgui\imgui_impl_dx9.cpp(285,1): fatal error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "pch.h"" einzufügen?
+  imgui_impl_win32.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\imgui\imgui_impl_win32.cpp(326,1): fatal error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "pch.h"" einzufügen?
+  imgui_widgets.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\imgui\imgui_widgets.cpp(7631,1): fatal error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "pch.h"" einzufügen?
+  Localplayer.cpp
+C:\Users\Justin\Desktop\trash\CSGO-Base-main\Strayfaded\Localplayer.cpp(24,1): fatal error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "pch.h"" einzufügen?
